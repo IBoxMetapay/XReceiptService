@@ -1,0 +1,12 @@
+C:\works\repos\XReceiptService\XReceiptService.ReceiptPDF\bin\Debug\netcoreapp3.1\XReceiptService.ReceiptPDF.deps.json
+C:\works\repos\XReceiptService\XReceiptService.ReceiptPDF\bin\Debug\netcoreapp3.1\XReceiptService.ReceiptPDF.dll
+C:\works\repos\XReceiptService\XReceiptService.ReceiptPDF\bin\Debug\netcoreapp3.1\XReceiptService.ReceiptPDF.pdb
+C:\works\repos\XReceiptService\XReceiptService.ReceiptPDF\obj\Debug\netcoreapp3.1\XReceiptService.ReceiptPDF.Properties.Resources.resources
+C:\works\repos\XReceiptService\XReceiptService.ReceiptPDF\obj\Debug\netcoreapp3.1\XReceiptService.ReceiptPDF.csproj.GenerateResource.cache
+C:\works\repos\XReceiptService\XReceiptService.ReceiptPDF\obj\Debug\netcoreapp3.1\XReceiptService.ReceiptPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\works\repos\XReceiptService\XReceiptService.ReceiptPDF\obj\Debug\netcoreapp3.1\XReceiptService.ReceiptPDF.AssemblyInfoInputs.cache
+C:\works\repos\XReceiptService\XReceiptService.ReceiptPDF\obj\Debug\netcoreapp3.1\XReceiptService.ReceiptPDF.AssemblyInfo.cs
+C:\works\repos\XReceiptService\XReceiptService.ReceiptPDF\obj\Debug\netcoreapp3.1\XReceiptService.ReceiptPDF.csproj.CoreCompileInputs.cache
+C:\works\repos\XReceiptService\XReceiptService.ReceiptPDF\obj\Debug\netcoreapp3.1\XReceiptService.ReceiptPDF.dll
+C:\works\repos\XReceiptService\XReceiptService.ReceiptPDF\obj\Debug\netcoreapp3.1\XReceiptService.ReceiptPDF.pdb
+C:\works\repos\XReceiptService\XReceiptService.ReceiptPDF\obj\Debug\netcoreapp3.1\XReceiptService.ReceiptPDF.csproj.AssemblyReference.cache
